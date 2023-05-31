@@ -14,8 +14,8 @@ management:
 #    health:
 #      show-details: always
 info:
-  author: Tulio L. Viglione
-  mail: tulio.l.viglione@gmail.com
+  author: Thomas B. B. Mendes
+  mail: bertellimendes@gmail.com
   cel: 313313131
 server:
   port: ${PORT:9999}
